@@ -1,10 +1,16 @@
-26 A - Sagheer and Crossroads
+18 A - Theatre Square
 6 SINGLE
 8 STANDARD
--1
+9 input.txt
 8 STANDARD
--1
+10 output.txt
+1
 0
+6 6 6 4
+
+2 4
+
+1
 22 cHelper/src/codeforces
 8 -Xmx256M
 4 Main
@@ -13,7 +19,7 @@
 0 
 0
 10 2017.06.04
-30 Codeforces Round #417 (Div. 2)
+24 Codeforces Beta Round #1
 1
 17 java.util.Scanner
 19 java.io.PrintWriter
