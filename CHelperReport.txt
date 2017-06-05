@@ -1,2 +1,2 @@
-46 cHelper/src/codeforces/A - Theatre Square.task
+42 cHelper/src/codeforces/A - Watermelon.task
 0
